@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4a96f8f8ec973804a8b507f61ca601dd, type: 3}
-  m_Name: Apple
+  m_Name: Cherry
   m_EditorClassIdentifier: 
   poolType: 2
-  objectType: 1
-  hasShell: 1
+  objectType: 3
+  hasShell: 0
